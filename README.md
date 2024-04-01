@@ -1,7 +1,7 @@
 # Image Classification Labeling Tool
 This project is an image labeling tool based on Tkinter. It allows users to label images and save the data into a CSV file.
 
-## Requirements
+## Requirements
 * pandas
 * Pillow
 * requests
@@ -12,7 +12,6 @@ Python comes with Tkinter included, so there's no need to install it separately.
 1. `image_url.csv`: A CSV file containing URLs of images to be labeled. This file must include at least one column named `URL`.
 2. `label_classes.json`: A JSON file containing a list of available label classes. This file can start with an empty array [] and will be updated as users add labels through the application. It's okay not to have a json file at first.
 
-### Execution
 Run the following command in the project directory to start the image labeling tool:
 ```
 python image_classification_labeling_tool.py
