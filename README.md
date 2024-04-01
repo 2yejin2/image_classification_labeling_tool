@@ -1,7 +1,7 @@
 # Image Classification Labeling Tool
 This project is an image labeling tool based on Tkinter. It allows users to label images and save the data into a CSV file.
 
-
+<br>
 
 ## Requirements
 * pandas
@@ -10,7 +10,7 @@ This project is an image labeling tool based on Tkinter. It allows users to labe
 
 Python comes with Tkinter included, so there's no need to install it separately.
 
-
+<br>
 
 
 ## How to Use
@@ -22,7 +22,7 @@ Run the following command in the project directory to start the image labeling t
 python image_classification_labeling_tool.py
 ```
 
-
+<br>
 
 
 ## Features
