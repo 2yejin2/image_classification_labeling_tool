@@ -19,7 +19,7 @@ Python comes with Tkinter included, so there's no need to install it separately.
 
 Run the following command in the project directory to start the image labeling tool:
 ```
-python image_classification_labeling_tool.py
+python labeling_tool.py
 ```
 
 <br>
